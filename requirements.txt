@@ -1,1 +1,1 @@
-pip install flask frozen-flask flask-flatpages
+flask frozen-flask flask-flatpages
